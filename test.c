@@ -3,6 +3,7 @@
 #include <time.h>
 #include <mpi.h>
 
+//ratatatatatata
 
 // Function to generate a random matrix and a random column for the answers
 void generate_augmented_matrix(double* matrix, double* answers, int n) {
